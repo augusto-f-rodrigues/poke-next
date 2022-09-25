@@ -25,3 +25,7 @@ Para instalar o PokeNext, siga estas etapas:
 `npm install`
 
 ## Anexos
+### Responsividade
+![responsividade](https://user-images.githubusercontent.com/85464318/192163774-9af1911e-0abc-4a40-a653-ecd9b3ef2ad1.gif)
+### Preview
+![preview2](https://user-images.githubusercontent.com/85464318/192164348-d5c32d3f-d82d-48a6-8c31-ddeea196c6bf.gif)
