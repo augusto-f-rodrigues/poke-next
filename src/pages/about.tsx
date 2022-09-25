@@ -1,8 +1,12 @@
+import Head from "next/head";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <>
+    <Head>
+      <title>PokeNext - About</title>
+    </Head>
       <div className="flex flex-col w-full h-full items-center">
         <h1 className="text-purple-800 font-black text-2xl pb-3">
           About the project

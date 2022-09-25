@@ -4,7 +4,7 @@ export default function Layout({children}: any) {
   return (
     <>
       <Navbar />
-      <div className="bg-purple-50 h-screen p-5">
+      <div className="bg-purple-50 min-h-screen h-full p-5">
       {children}
       </div>
     </>
