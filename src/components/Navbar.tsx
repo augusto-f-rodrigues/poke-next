@@ -3,7 +3,7 @@ import ListTemplate from "./templates/ListTemplate";
 
 export default function Navbar() {
   return (
-    <div className="flex bg-purple-900 w-full h-16 justify-center">
+    <nav className="flex bg-purple-900 w-full h-16 justify-center">
       <div className="flex flex-row w-9/12 items-center">
         <div className="flex flex-row items-center p-1">
           <Image
@@ -22,6 +22,6 @@ export default function Navbar() {
           <ListTemplate link="/about" title="About" />
         </ul>
       </div>
-    </div>
+    </nav>
   );
 }
